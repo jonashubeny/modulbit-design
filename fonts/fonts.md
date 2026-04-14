@@ -42,7 +42,7 @@ Used for logo and brand mark.
 
 ### Small Text
 - Size: 12–13px
-- Color: Gray
+- Color: #6B7280
 
 ---
 
